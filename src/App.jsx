@@ -7,6 +7,9 @@ function App() {
   return (
     <>
       <PreviewConfig />
+         <footer className="footer">
+        Developed by <strong>Sashi Saravan</strong>
+      </footer>
     </>
   )
 }
