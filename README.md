@@ -42,42 +42,6 @@ markdown-previewer/
 └── README.md
 ```
 
-### 📁 Components
-
-**`PreviewConfig.jsx`**
-
-The main component of the application. It contains the Markdown editor, preview functionality, synchronized scrolling, and Markdown file download logic.
-
-The component is imported and rendered from `App.jsx`.
-
-### 🎨 Styles
-
-**`MuiStyles.js`**
-
-Contains the Material UI styling configuration used throughout the Markdown Previewer to maintain a consistent and responsive UI.
-
-## ⚙️ Installation
-
-Navigate to the project directory:
-
-```bash
-cd markdown-previewer
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open the local URL provided by Vite in your browser.
-
 ## 📸 Screenshots
 
 ### Markdown Editor & Live Preview
